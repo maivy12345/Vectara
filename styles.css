@@ -209,18 +209,18 @@ h1 em { color: var(--lime); font-style: normal; font-weight: 500; }
 .accordion details[open] summary span { transform: rotate(45deg); }
 .accordion details p { margin: 0; padding: 0 40px 26px 0; color: var(--muted); }
 
-.contact { min-height: 570px; padding: 96px clamp(24px, 5vw, 78px); display: grid; grid-template-columns: 1.25fr .75fr; gap: 10%; align-items: end; position: relative; overflow: hidden; background: var(--lime); color: #0f172a; }
-.contact-mark { position: absolute; right: -1vw; top: -160px; font-size: 40rem; line-height: 1; font-weight: 800; color: rgba(13,31,8,.06); pointer-events: none; }
+.contact { min-height: 570px; padding: 96px clamp(24px, 5vw, 78px); display: grid; grid-template-columns: 1.25fr .75fr; gap: 10%; align-items: end; position: relative; overflow: hidden; background: #0b1733; color: #f8fafc; }
+.contact-mark { position: absolute; right: -1vw; top: -160px; font-size: 40rem; line-height: 1; font-weight: 800; color: rgba(56,189,248,.08); pointer-events: none; }
 @keyframes markDrift { 0%, 100% { transform: rotate(-4deg) translateY(0); } 50% { transform: rotate(4deg) translateY(16px); } }
 .contact-mark { animation: markDrift 14s ease-in-out infinite; }
-.contact .eyebrow { color: #64748b; }
+.contact .eyebrow { color: #7dd3fc; }
 .contact h2 { max-width: 900px; }
-.contact-copy > p:not(.eyebrow) { max-width: 670px; margin: 24px 0 34px; color: #64748b; }
-.contact .button-primary { background: #0f172a; color: var(--lime); }
+.contact-copy > p:not(.eyebrow) { max-width: 670px; margin: 24px 0 34px; color: #cbd5e1; }
+.contact .button-primary { background: var(--lime); color: #07111f; }
 .contact-details { position: relative; z-index: 1; }
-.contact-details div { padding: 18px 0; border-bottom: 1px solid rgba(23,47,15,.25); }
+.contact-details div { padding: 18px 0; border-bottom: 1px solid rgba(125,211,252,.35); }
 .contact-details span, .contact-details strong, .contact-details a { display: block; }
-.contact-details span { font: .65rem var(--mono); letter-spacing: .12em; color: #64748b; }
+.contact-details span { font: .65rem var(--mono); letter-spacing: .12em; color: #7dd3fc; }
 .contact-details strong, .contact-details a { margin-top: 5px; font-size: .86rem; text-decoration: none; }
 
 .site-footer { position: relative; min-height: 184px; padding: 44px clamp(24px, 5vw, 78px) 38px; display: grid; grid-template-columns: minmax(150px, 1.05fr) minmax(220px, 1.45fr) minmax(150px, .9fr) minmax(220px, 1.25fr); gap: clamp(24px, 3vw, 56px); align-items: center; border-top: 1px solid var(--line); background: linear-gradient(180deg, rgba(23,37,84,.2), rgba(15,23,42,.72)); }
