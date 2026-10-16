@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Vectara Digital Infrastructure</title>
+  <desc id="desc">BIM coordination, digital twins and data governance for the built environment.</desc>
+  <rect width="1200" height="630" fill="#312E81"/>
+  <g opacity=".18" fill="none" stroke="#67E8F9">
+    <path d="M760 92 1106 260 838 434 492 266Z"/>
+    <path d="M760 166 1030 297 838 422 568 291Z"/>
+    <path d="M760 240 954 334 838 410 644 316Z"/>
+    <path d="M760 92v148M1106 260v148M492 266v148M838 434v104" stroke-dasharray="10 12"/>
+  </g>
+  <g transform="translate(82 110) scale(.83)">
+    <path d="M141.12 228.82H89.63L0 .23H51.49l89.63 228.59Z" fill="#FFFFFF"/>
+    <path d="M141.12 228.82H89.63v-51.45h51.49v51.45ZM179.07 165.61h-43.83v-43.8h43.83v43.8ZM209.09 110.05h-36.17V73.9h36.17v36.15ZM234.4 62.14h-28.51V33.65h28.51v28.49ZM254.96 21.07h-20.85V.23h20.85v20.84Z" fill="#06B6D4"/>
+    <path d="M179.07 203.1h-25.74v25.72h25.74V203.1ZM217.02 177.37h-25.75v51.45h25.75v-51.45ZM254.96 143.65h-25.74v85.17h25.74v-85.17Z" fill="#FFFFFF"/>
+  </g>
+  <text x="340" y="205" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="80" font-weight="700" letter-spacing="3">VECTARA</text>
+  <text x="344" y="254" fill="#CFFAFE" font-family="Arial, sans-serif" font-size="24" letter-spacing="2">DIGITAL INFRASTRUCTURE</text>
+  <line x1="82" y1="365" x2="1118" y2="365" stroke="#06B6D4" stroke-width="3"/>
+  <text x="82" y="438" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="34" font-weight="600">BIM coordination, digital twins and data governance</text>
+  <text x="82" y="484" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="34" font-weight="600">for the built environment.</text>
+  <text x="82" y="558" fill="#CFFAFE" font-family="Arial, sans-serif" font-size="22" letter-spacing="1">VECTARAGROUP.COM</text>
+</svg>

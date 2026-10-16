@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://vectara-digital-built-environment.bin-corporat-9652.chatgpt.site/sitemap.xml
+
+Sitemap: https://vectaragroup.com/sitemap.xml

@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "vectara",
+      "runtimeExecutable": "C:/Users/Admim/AppData/Local/Programs/nodejs/node.exe",
+      "runtimeArgs": ["server.mjs"],
+      "port": 4173,
+      "autoPort": true
+    }
+  ]
+}
